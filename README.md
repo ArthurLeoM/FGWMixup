@@ -1,4 +1,8 @@
-# FGWMixup
+# FGWMixup - Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications
+
+This is the code for the paper: Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications, published in NeurIPS'23.
+Paper link 🔗: https://arxiv.org/abs/2306.15963 (Currently preprint version. We will update after published in proceedings.)
+Thanks for your interest in our work! If our work helps, please don't forget to cite our paper!
 
 ### File Structure
 
@@ -23,3 +27,4 @@ Suggested Enviornments:
 - PyTorch 1.11.0
 - DGL 1.0.2
 - POT 0.8.2
+
